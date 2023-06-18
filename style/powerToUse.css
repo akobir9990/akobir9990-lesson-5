@@ -1,0 +1,46 @@
+.easyToUse .container {
+  margin: 0 auto;
+  padding: 94px 222px;
+  background: #f5f5f5;
+}
+.easyToUse .container h1,
+.easyToUse .container p {
+  text-align: center;
+}
+.easyToUse .container h1 {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 45px;
+  margin-bottom: 28px;
+}
+.easyToUse .container p {
+  margin-bottom: 90px;
+}
+.easyToUse .container img {
+  margin-bottom: 76px;
+}
+.easyToUseBtns {
+  display: flex;
+  justify-content: center;
+}
+
+.easyToUseBtns button {
+  height: 40px;
+  width: 189px;
+  left: 0px;
+  top: 0px;
+  border-radius: 30px;
+  border: none;
+  box-shadow: 0px 0px 0px 0px #6f2cff;
+  margin: 11px;
+}
+.btnSeeProducts {
+  background: #6f2cff;
+  color: white;
+  cursor: pointer;
+}
+.BookADemo {
+  background: white;
+  color: #6f2cff;
+  cursor: pointer;
+}

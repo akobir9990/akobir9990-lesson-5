@@ -1,0 +1,33 @@
+.landingBrands {
+  padding: 88px 200px 100px 200px;
+}
+.landingBrands .container h1 {
+  text-align: center;
+  margin-bottom: 75px;
+}
+.landingItem {
+  max-width: 320px;
+  display: inline-block;
+  box-shadow: 0px 2px 4px 0px #c0c0c080;
+  border-radius: 0px 0px 7px 7px;
+}
+.landingItem p {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #6f2cff;
+  margin: 0 50px 88px 50px;
+}
+
+.landingItem .itemLogo {
+  display: block;
+  margin: 20px auto;
+}
+
+.landingItem:nth-child(2) {
+  margin: 0 3%;
+}
+
